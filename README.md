@@ -6,52 +6,53 @@
 - 📫 How to reach me drop me a note l o z i l n @ g m a i l . c o m
 
 
-Long Career, Lot of testing Projects I have worked on, which were on MAC OS X, iOS, Android, Windows, WebOS, BlackBerry, Symbian. When it comes to devices I have worked on iPhone's, iPad's , Android Mobiles and Tablets, Windows ARM tablets.
-Coming down to Automation, I have Automated Mobile Apps using Appium and Java. Web Apps using Selenium and Java. I have also Used tools like SeeTest and Waldo to automate testing.
+- Long Career, Lot of testing Projects I have worked on, which were on MAC OS X, iOS, Android, Windows, WebOS, BlackBerry, Symbian. When it comes to devices I have worked on iPhone's, iPad's , Android Mobiles and Tablets, Windows ARM tablets.
 
-List of Projects which I worked on.
+- Coming down to Automation, I have Automated Mobile Apps using Appium and Java. Web Apps using Selenium and Java. I have also Used tools like SeeTest and Waldo to automate testing.
 
-Robosoft:
-HP printer driver Testing on MAC OS X.
-Orbita Mouse preference Pane for MAC OS X.
-Vishnu Prarthana Mobile app.
-Durga Prarthana Mobile app.
-Reef War Mobile app.
-HP 12C Calculator Mobile app.
+-List of Projects which I worked on.
 
-Sourcebits:
-GE Nucleus.
-GeoDatix.
-NightStand.
-Robokill Game.
-Apocalypse Max Game.
-NDTV Gadgets.
-NDTV Kachack.
-US Army Field Card.
-ARM mobile US Army.
-ECO US Army.
-BAO ESRI.
-Social Parent.
-Kobb Chicken Sales Guide.
-CloudOn.
+-Robosoft:
+--HP printer driver Testing on MAC OS X.
+--Orbita Mouse preference Pane for MAC OS X.
+--Vishnu Prarthana Mobile app.
+--Durga Prarthana Mobile app.
+--Reef War Mobile app.
+--HP 12C Calculator Mobile app.
 
-Unisys:
-uWork.
-USFN.
-MBIE Tenancy Bond for NZ.
-Leida.
-uLeaf.
-Harmony day.
-Lloyd Bank Automation.
+-Sourcebits:
+--GE Nucleus.
+--GeoDatix.
+--NightStand.
+--Robokill Game.
+--Apocalypse Max Game.
+--NDTV Gadgets.
+--NDTV Kachack.
+--US Army Field Card.
+--ARM mobile US Army.
+--ECO US Army.
+--BAO ESRI.
+--Social Parent.
+--Kobb Chicken Sales Guide.
+--CloudOn.
 
-TechMahindra:
-3UK Prepaid Mobile App.
-3UK Postpaid Mobile, Web and Agent Apps.
-BT flutter transformation.
+-Unisys:
+--uWork.
+--USFN.
+--MBIE Tenancy Bond for NZ.
+--Leida.
+--uLeaf.
+--Harmony day.
+--Lloyd Bank Automation.
 
-MatchX:
-DataDash App.
-MXC Controller App.
+-TechMahindra:
+--3UK Prepaid Mobile App.
+--3UK Postpaid Mobile, Web and Agent Apps.
+--BT flutter transformation.
+
+-MatchX:
+--DataDash App.
+--MXC Controller App.
 
 <!---
 lozil/lozil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

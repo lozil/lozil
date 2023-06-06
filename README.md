@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Mobile Development or Testing projects
 - 📫 How to reach me drop me a note l o z i l n @ g m a i l . c o m
 
-
+<!---
 - Long Career, Lot of testing Projects I have worked on, which were on MAC OS X, iOS, Android, Windows, WebOS, BlackBerry, Symbian. When it comes to devices I have worked on iPhone's, iPad's , Android Mobiles and Tablets, Windows ARM tablets.
 
 - Coming down to Automation, I have Automated Mobile Apps using Appium and Java. Web Apps using Selenium and Java. I have also Used tools like SeeTest and Waldo to automate testing.
@@ -54,7 +54,7 @@
 --DataDash App.
 --MXC Controller App.
 
-<!---
+
 lozil/lozil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

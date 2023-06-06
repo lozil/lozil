@@ -12,46 +12,46 @@ Coming down to Automation, I have Automated Mobile Apps using Appium and Java. W
 List of Projects which I worked on.
 
 Robosoft:
-HP printer driver Testing on MAC OS X
-Orbita Mouse preference Pane for MAC OS X
-Vishnu Prarthana Mobile app
-Durga Prarthana Mobile app
-Reef War Mobile app
-HP 12C Calculator Mobile app
+HP printer driver Testing on MAC OS X.
+Orbita Mouse preference Pane for MAC OS X.
+Vishnu Prarthana Mobile app.
+Durga Prarthana Mobile app.
+Reef War Mobile app.
+HP 12C Calculator Mobile app.
 
 Sourcebits:
-GE Nucleus
-GeoDatix
-NightStand
-Robokill Game
-Apocalypse Max Game
-NDTV Gadgets
-NDTV Kachack
-US Army Field Card
-ARM mobile US Army
-ECO US Army
-BAO ESRI
-Social Parent
-Kobb Chicken Sales Guide
-CloudOn
+GE Nucleus.
+GeoDatix.
+NightStand.
+Robokill Game.
+Apocalypse Max Game.
+NDTV Gadgets.
+NDTV Kachack.
+US Army Field Card.
+ARM mobile US Army.
+ECO US Army.
+BAO ESRI.
+Social Parent.
+Kobb Chicken Sales Guide.
+CloudOn.
 
 Unisys:
-uWork
-USFN
-MBIE Tenancy Bond for NZ
-Leida
-uleaf
-Harmony day
-Lloyd Bank Automation
+uWork.
+USFN.
+MBIE Tenancy Bond for NZ.
+Leida.
+uLeaf.
+Harmony day.
+Lloyd Bank Automation.
 
 TechMahindra:
-3UK Prepaid Mobile App
+3UK Prepaid Mobile App.
 3UK Postpaid Mobile, Web and Agent Apps.
-BT flutter transformation
+BT flutter transformation.
 
 MatchX:
-DataDash App
-MXC Controller App
+DataDash App.
+MXC Controller App.
 
 <!---
 lozil/lozil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
